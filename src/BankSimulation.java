@@ -11,6 +11,8 @@ public class BankSimulation {
 		 * Four Objects are made
 		 */
 		
+		//System.println("all is well");
+		
 		// TODO Auto-generated method stub
 Bank bn=new Bank();
 Person pr=new Person();
